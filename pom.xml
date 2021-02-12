@@ -4,7 +4,7 @@
 
     <groupId>au.gov.nehta</groupId>
     <artifactId>pcehr-compiled-wsdl</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1-SNAPSHOT</version>
     <name>PCEHR Compiled WSDL library</name>
     <description>Java classes for B2B client development</description>
     <url>https://github.com/AuDigitalHealth/pcehr-compiled-wsdl-java</url>
