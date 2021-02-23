@@ -38,7 +38,7 @@
             scm:git:https://github.com/AuDigitalHealth/pcehr-compiled-wsdl-java.git
         </developerConnection>
         <url>https://github.com/AuDigitalHealth/pcehr-compiled-wsdl-java.git</url>
-        <tag>pcehr-compiled-wsdl-1.1.0</tag>
+        <tag>pcehr-compiled-wsdl-1.1.1</tag>
     </scm>
 
     <distributionManagement>
